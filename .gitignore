@@ -1,5 +1,7 @@
 .env
 
+.DS_Store
+
 # Jupiter Notebook #
 .pytest_cache
 __pycache__
