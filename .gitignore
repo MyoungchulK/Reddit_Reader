@@ -8,4 +8,5 @@ __pycache__
 *checkpoint.ipynb
 *.ipynb_checkpoints
 
-data
+csv
+audio
